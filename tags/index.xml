@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gahgas</title>
+    <link>https://caioob.github.io/tags/</link>
+    <description>Recent content in Tags on Gahgas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 17 Jan 2023 19:07:14 -0300</lastBuildDate><atom:link href="https://caioob.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Música</title>
+      <link>https://caioob.github.io/tags/m%C3%BAsica/</link>
+      <pubDate>Tue, 17 Jan 2023 19:07:14 -0300</pubDate>
+      
+      <guid>https://caioob.github.io/tags/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Música da Semana</title>
+      <link>https://caioob.github.io/tags/m%C3%BAsica-da-semana/</link>
+      <pubDate>Tue, 17 Jan 2023 19:07:14 -0300</pubDate>
+      
+      <guid>https://caioob.github.io/tags/m%C3%BAsica-da-semana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://caioob.github.io/tags/misc/</link>
+      <pubDate>Tue, 17 Jan 2023 18:35:53 -0300</pubDate>
+      
+      <guid>https://caioob.github.io/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
